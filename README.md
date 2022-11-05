@@ -1,1 +1,1 @@
-# house_price_predictor
+Predicting house prices can help to determine the selling price of a house of a particular region and can help people to find the right time to buy a home. In this project, I've used Banglore House Prices Dataset from Kaggle. It's a End to End project, Starting from Data Analysis, Cleaning, Encoding, Modelling, Creating WebApp using Flask.
